@@ -1,7 +1,9 @@
 #eddiehome
 
-ssr://MTIwLjIzMi4xODEuMjQ2OjU3MTAwOm9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOlJHVlFVVFV5Lz9yZW1hcmtzPU1URXgmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
-ssr://MTIwLjIzMi4xODEuMjQ1OjU3MTAwOm9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOlJHVlFVVFV5Lz9yZW1hcmtzPU1URXkmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
-ssr://MTE2LjE2My4xNC4yMDI6MjcwOTk6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46UkdWUVVUVXkvP3JlbWFya3M9TVRFeiZwcm90b3BhcmFtPSZvYmZzcGFyYW09
-ssr://MTE2LjE2My4xNC4yMDE6MjcwOTk6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46UkdWUVVUVXkvP3JlbWFya3M9TVRFMCZwcm90b3BhcmFtPSZvYmZzcGFyYW09
-ssr://MTE2LjE2My4xNC4xMzoyNzA5OTpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpwbGFpbjpSR1ZRVVRVeS8_cmVtYXJrcz1NVEUxJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-12.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%2010
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-j.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%209
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-k.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%208
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@l2-us-e.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%207
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-a.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%206
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-4.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%205
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-4.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%E4%BC%98%E5%8C%96%EF%BD%9C%E7%BE%8E%E5%9B%BD-04%20%5B1.5%5D%5BNF%5D
