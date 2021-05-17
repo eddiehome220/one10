@@ -3,7 +3,7 @@ trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-12.cn0.me:443/?peer
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-j.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%209
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-k.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%208
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@l2-us-e.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%207
-trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-a.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%206
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-ru-b.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%B7%F0%9F%87%BA%20Trojan%206
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-4.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%205
 trojan://T9MTTc@pikaqiu.win:443/?peer=#ed%20%E9%9F%A9%E5%9B%BD%202
 trojan://T9MTTc@jpd.pikaqiu.win:443/?peer=#ed%20%E6%97%A5%E6%9C%AC%201
@@ -15,3 +15,7 @@ trojan://T9MTTc@buyvm-lasi2.pikaqiu.win:443/?peer=#ed%20us1
 trojan://T9MTTc@vmach-zjg.pikaqiu.win:443/?peer=#ed%20us%202
 trojan://T9MTTc@kcd.pikaqiu.win:443/?peer=#ed%20us%203
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-in-a.cn0.me:443?peer=paydiu.com&tfo=1#Trojan%20a
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-jp-7.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Trojan%20%E6%97%A5%E6%9C%AC1
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-jp-8.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Trojan%E6%97%A5%E6%9C%AC%202
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-jp-9.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Trojan%E6%97%A5%E6%9C%AC3
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-ru-a.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%B7%F0%9F%87%BA%20Trojan%2033
