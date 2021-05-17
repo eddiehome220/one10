@@ -1,5 +1,4 @@
 #eddiehome
-
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-12.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%2010
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-j.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%209
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-us-k.cn0.me:443/?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%208
@@ -15,3 +14,4 @@ trojan://T9MTTc@www.pikaqiu.win:443/?peer=#ed%20Sg2
 trojan://T9MTTc@buyvm-lasi2.pikaqiu.win:443/?peer=#ed%20us1
 trojan://T9MTTc@vmach-zjg.pikaqiu.win:443/?peer=#ed%20us%202
 trojan://T9MTTc@kcd.pikaqiu.win:443/?peer=#ed%20us%203
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-in-a.cn0.me:443?peer=paydiu.com&tfo=1#Trojan%20a
