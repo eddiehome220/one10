@@ -19,3 +19,5 @@ trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-jp-7.cn0.me:443?peer=p
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-jp-8.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Trojan%E6%97%A5%E6%9C%AC%202
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-jp-9.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Trojan%E6%97%A5%E6%9C%AC3
 trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-ru-a.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%B7%F0%9F%87%BA%20Trojan%2033
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@kaizen-us-13.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojon%20%E7%BE%8E%E5%9B%BD%E8%A1%A5
+trojan://194b6249-7ff3-3dbc-89b4-49ef8236258acmynw@zhilian-jp-h.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Trojan%20%E6%97%A5%E6%9C%AC%E8%A1%A5
