@@ -1,6 +1,5 @@
 #eddiehome
-ssr://YmVhdXRpZnVsLnZvZGFmb25lLmN5b3U6MjAzMTphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlIwSnFjVzQwWVdONlNtay8_cmVtYXJrcz1aV1FnNmFhWjVyaXZJREV3JnByb3RvcGFyYW09TXpJd09EZzVPa05KVG01S1lnJm9iZnNwYXJhbT1ZMkk1WkdNek1qQTRPRGt1YldsamNtOXpiMlowTG1OdmJR
-ssr://YmVhdXRpZnVsLnZvZGFmb25lLmN5b3U6MjMwNzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlZXbHVkamhRWVZKelRVdy8_cmVtYXJrcz1aV1FnNVktdzVybS1JREEwJnByb3RvcGFyYW09TXpJd09EZ
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:9961?peer=hk4.bot666.xyz#%E9%A6%99%E6%B8%AF04
-ss://YWVzLTI1Ni1nY206YmM5YzIxODgtZWNkNy00NzVlLWFjNjUtM2JmYmJhY2VjZjZjQHdyLm5haWdhaS5vbmU6OTk1OA#%E6%96%B0%E5%8A%A0%E5%9D%A102
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp03.bot666.xyz:443?peer=jp03.bot666.xyz#%E6%97%A5%E6%9C%AC03
+ssr://Z3Vhbmd6aG91LWFueWNhc3Qudm9kYWZvbmUuY3lvdToyMzAzOmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6WTFGT09ISldXbmxYUVVvLz9yZW1hcmtzPVFYTWc1WTJ3NWJxbUlEQXkmcHJvdG9wYXJhbT1Nekl3T0RnNU9rTkpUbTVLWWcmb2Jmc3BhcmFtPVkySTVaR016TWpBNE9Ea3ViV2xqY205emIyWjBMbU52YlE
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@az.naigai1.club:10570?allowInsecure=1&peer=hk01.naigai1.club#%E9%A6%99%E6%B8%AF01
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@az.naigai1.club:10801?peer=tw04.naigai1.club#%E5%8F%B0%E6%B9%BE04
+
