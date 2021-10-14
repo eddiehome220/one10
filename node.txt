@@ -1,4 +1,4 @@
 #eddiehome
 ssr://Z3Vhbmd6aG91LWFueWNhc3Qudm9kYWZvbmUuY3lvdToyMzAzOmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6WTFGT09ISldXbmxYUVVvLz9yZW1hcmtzPVFYTWc1WTJ3NWJxbUlEQXkmcHJvdG9wYXJhbT1Nekl3T0RnNU9rTkpUbTVLWWcmb2Jmc3BhcmFtPVkySTVaR016TWpBNE9Ea3ViV2xqY205emIyWjBMbU52YlE
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp04.naigai1.club:443?peer=jp04.naigai1.club#%E6%97%A5%E6%9C%AC02
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@sg11.naigai1.club:443?peer=sg11.naigai1.club#%E7%8B%AE%E5%9F%8E06
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@cm.naigai1.club:10557?peer=kr2.naigai1.club#%E9%9F%A9%E5%9B%BD01
