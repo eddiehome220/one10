@@ -1,4 +1,7 @@
 #eddiehome
+vmess://YXV0bzpiMmUzN2UzYi1kNjUxLTQ2ZDEtODFhOC1iYjYxMjQ2ZGUyMGFAY20ueHJheXBvcnQub25lOjExMjI1?remarks=%E9%9F%A9%E5%9B%BD01&obfs=websocket&tfo=1&alterId=0
+trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@jp.tcpbbr.net:443/?peer=hgc1.tcpbbr.net#%E6%97%A5%E6%9C%AC
+https://ddc3mdk4nju3ocu0mgdtywlslmnvbtoyztvmmme3oc0xngq4ltexzwitywq4yy1mmjnjote2ngnhnwracgnjdy5zdhvubmvslnzpcdo0nzaw/#HKBGP
 vmess://YXV0bzoyZTVmMmE3OC0xNGQ4LTExZWItYWQ4Yy1mMjNjOTE2NGNhNWRAaGsudGNwYmJyLm5ldDo4Mzg4?remarks=%E9%A6%99%E6%B8%AF&tls=1&alterId=2
 trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@tw.tcpbbr.net:443/?peer=hgc1.tcpbbr.net#%E5%8F%B0%E7%81%A3
 vmess://YXV0bzo5ODgzNzc4ZC0xZDI1LTQ3ZmMtYWJmYy1hNzZkYTEzYjQ5NTdAY2hpbmEtZ3p5ZC0xLmZvcndhcmRzZXJ2ZXIueHl6OjM5ODI3?remarks=%E9%A6%99%E6%B8%AF%E6%99%BA%E8%83%BD%E4%B8%AD%E8%BD%AC&path=/aoyou&obfs=websocket&tfo=1&alterId=0
