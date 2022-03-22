@@ -1,6 +1,6 @@
 #eddiehome
 vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAc2hjbjIuaG55aGdsLmNvbToyMDAwNg?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
 trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@shcn2.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF
-vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAc2hjbjIuaG55aGdsLmNvbToyMDAwNQ?remarks=%E9%A6%99%E6%B8%AF2&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzo5ODgzNzc4ZC0xZDI1LTQ3ZmMtYWJmYy1hNzZkYTEzYjQ5NTdAMTE2LjEyOS4yNTMuMjE4OjE3OTE5?remarks=%E6%B4%9B%E6%9D%89%E7%9F%B6&path=/aoyou&obfs=websocket&tfo=1&alterId=0
 ss://YWVzLTEyOC1nY206YjJlMzdlM2ItZDY1MS00NmQxLTgxYTgtYmI2MTI0NmRlMjBhQGNtLnhyYXlwb3J0Lm9uZToxMjIyMg#%E5%B9%BF%E7%8B%AE%E5%9F%8E14
+trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@shcm.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF2
