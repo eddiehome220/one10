@@ -1,8 +1,5 @@
 #eddiehome
 ss://YWVzLTEyOC1jZmI6YmRqZGpkYkBjbS54cmF5cG9ydC5vbmU6NDQ0#%E5%8B%BF%E8%B0%88%E5%9B%BD%E6%98%AF%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%BA%A4%E6%B5%81%E3%80%82%E6%9C%89%E9%97%AE%E9%A2%98%E8%AF%B7%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-vmess://YXV0bzo5ODgzNzc4ZC0xZDI1LTQ3ZmMtYWJmYy1hNzZkYTEzYjQ5NTdAc2hjdS5mb3JnZWJ1a2tpdC5jb206MzgyOTE?remarks=%E8%8E%AB%E6%96%AF%E7%A7%91&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzo5ODgzNzc4ZC0xZDI1LTQ3ZmMtYWJmYy1hNzZkYTEzYjQ5NTdAMTE2LjEyOS4yNTMuMjE4OjE3NTE4?remarks=%E6%B4%9B%E6%9D%89%E7%9F%B6&path=/aoyou&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAc2hiZ3AuaG55aGdsLmNvbToyMDAwNw?remarks=%E9%A6%99%E6%B8%AFH&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
-trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@shcn2.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AFa
-ssr://Z3p5ZGRkbnMueHl6OjExODA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NWJtXzVwYXc1WXFnNVoyaElFNCZwcm90b3BhcmFtPU1UTTJORGc2TldobGEwSnlNM1I0WWtzJm9iZnNwYXJhbT1OalUwTkRVeE16WTBPQzV0YVdOeWIzTnZablF1WTI5dA
-ssr://c2guc2hjdWRkbnMueHl6OjExNDIyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NUxpSzVwYXc1WXFnNVoyaCZwcm90b3BhcmFtPU1UTTJORGc2TldobGEwSnlNM1I0WWtzJm9iZnNwYXJhbT1OalUwTkRVeE16WTBPQzV0YVdOeWIzTnZablF1WTI5dA
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hiZ3AuaG55aGdsLmNvbToyMDAwNg?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbS5obnloZ2wuY29tOjIwMDA3?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5obnloZ2wuY29tOjIwMDA1?remarks=%E9%A6%99&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
