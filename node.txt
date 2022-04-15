@@ -4,3 +4,4 @@ vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hiZ3AuaG55aGds
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbS5obnloZ2wuY29tOjIwMDA3?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5obnloZ2wuY29tOjIwMDA1?remarks=%E9%A6%99&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
 ssr://c2guc2hjdWRkbnMueHl6OjExNDI5OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NUxpSzVyVzNRMDR5TGVhV3NPV0tvT1dkb1EmcHJvdG9wYXJhbT1NVE0yTkRnNk5XaGxhMEp5TTNSNFlrcyZvYmZzcGFyYW09TmpVME5EVXhNelkwT0M1dGFXTnliM052Wm5RdVkyOXQ
+trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@shcm.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF-%E4%B8%8A%E6%B5%B7
