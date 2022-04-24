@@ -1,9 +1,6 @@
 #eddiehome
-ssr://MTI3LjAuMC4xOjgwMzM6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6VTBkVVN6WkIvP3JlbWFya3M9ZEdsd2MtUzRwZWVtZ1dKMElIQjA1TGlMNkwyOUlPV1BrZWVPc09Xd2dlV1B0eURvc0tMb3NLTG5rSWJvcDZNJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
-trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@sdtu.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF
-trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@sdtu.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF
-trojan://afd99ae8-e3a4-3865-9666-f0fe9996950a@shcm.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF03
-vmess://eyJob3N0IjoiYXBpLmZsb2F0Y2xvdWQubGl2ZSIsInBhdGgiOiIvZ2FtZSIsInRscyI6InRscyIsInZlcmlmeV9jZXJ0Ijp0cnVlLCJhZGQiOiJzaGNuMi5obnloZ2wuY29tIiwicG9ydCI6MjAwMDUsImFpZCI6MCwibmV0Ijoid3MiLCJoZWFkZXJUeXBlIjoibm9uZSIsInYiOiIyIiwidHlwZSI6InZtZXNzIiwicHMiOiIgIOmmmea4r0hLVC1henVyZeS4iua1t0NOMiB8IOWOn+eUnyB8IHzkuI3pmZDliLZ8IHBsYW5EIiwicmVtYXJrIjoiICDpppnmuK9IS1QtYXp1cmXkuIrmtbdDTjIgfCDljp/nlJ8gfCB85LiN6ZmQ5Yi2fCBwbGFuRCIsImlkIjoiYWZkOTlhZTgtZTNhNC0zODY1LTk2NjYtZjBmZTk5OTY5NTBhIiwiY2xhc3MiOjJ9
-vmess://eyJob3N0IjoiYXBpLmZsb2F0Y2xvdWQubGl2ZSIsInBhdGgiOiIvZ2FtZSIsInRscyI6InRscyIsInZlcmlmeV9jZXJ0Ijp0cnVlLCJhZGQiOiJzZHR1LmhueWhnbC5jb20iLCJwb3J0IjoyMDAwNSwiYWlkIjowLCJuZXQiOiJ3cyIsImhlYWRlclR5cGUiOiJub25lIiwidiI6IjIiLCJ0eXBlIjoidm1lc3MiLCJwcyI6IiAg6aaZ5rivSEtULWF6dXJl5bGx5Lic6IGU6YCaIHwgcGxhbkQiLCJyZW1hcmsiOiIgIOmmmea4r0hLVC1henVyZeWxseS4nOiBlOmAmiB8IHBsYW5EIiwiaWQiOiJhZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGEiLCJjbGFzcyI6M30=
-trojan://T9MTTc@43.134.207.248:443/?peer=c33.qqtang.xyz#KHK%E8%8A%82%E7%82%B9
-trojan://T9MTTc@43.129.187.181:443/?peer=ccc.tkblogs.win#KHK%E8%8A%82%E7%82%B92
+vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAZ3p0Yy5obnloZ2wuY29tOjIwMDA3?remarks=%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD-%E5%B9%BF%E5%B7%9E%E7%94%B5%E4%BF%A1%20%7C%20planA&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
+trojan://T9MTTc@43.128.63.163:443/?peer=c2.tkblogs.win#KHK%E8%8A%82%E7%82%B9
+vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAY2Z2Ni53aWxkMjMzLmNmOjgw?remarks=%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AFcloudflare-ipplanB%20%7C%20%E4%BC%98%E5%8C%96&obfsParam=cfv6.wild233.cf&path=/game&obfs=websocket&alterId=0
+vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDIzLkFQLlBPUC5CSUdBSVJQT1JULk5FVDo1MjM1Ng?remarks=TYO/%E4%B8%9C%E4%BA%AC&obfs=websocket&tfo=1&alterId=0
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDEuZG5zMjMzMy54eXo6NjQwNzE?remarks=%F0%9F%87%B7%F0%9F%87%BA%20V1-%E4%BF%84%E7%BD%97%E6%96%AF01&obfsParam=biteb-ru01.myn1des.com&path=/&obfs=websocket&tls=1&peer=biteb-ru01.myn1des.com&allowInsecure=1
